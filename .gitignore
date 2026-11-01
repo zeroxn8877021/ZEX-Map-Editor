@@ -1,0 +1,14 @@
+# Godot generated/imported editor data
+.godot/
+.import/
+
+# Exported builds and local export configuration
+export.cfg
+export_presets.cfg
+exported/
+
+# Temporary/editor-generated files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
